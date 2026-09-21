@@ -4,13 +4,11 @@ The Game Store REST API will be used to expose the data from the Game Store Data
 
 Uses: C#, .NET
 
-#Useful commands
-
-##Start application in Development environment
+# Start application in Development environment
 ```
 cd asp.net/GameStore.Api
 dotnet run
 ```
 
-#References: 
+# References: 
 [ASP.NET course](https://youtu.be/YbRe4iIVYJk?si=sGHjuCwGevzqcqUUi)
